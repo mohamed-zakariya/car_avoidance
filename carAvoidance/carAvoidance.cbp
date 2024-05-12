@@ -44,8 +44,10 @@
 			<Add library="gdi32" />
 			<Add directory="C:/Program Files/CodeBlocks/MinGW/x86_64-w64-mingw32/lib" />
 		</Linker>
+		<Unit filename="include/CarEnemy.h" />
 		<Unit filename="include/Way.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/CarEnemy.cpp" />
 		<Unit filename="src/Way.cpp" />
 		<Extensions />
 	</Project>
